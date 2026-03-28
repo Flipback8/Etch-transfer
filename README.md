@@ -1,17 +1,12 @@
 # Etch-transfer
 Export and import Etch pages, templates, patterns, and components between WordPress sites, complete with all classes and styles. 
 
+Built for use with [Etch for WordPress](https://etchwp.com/).
+
 ## ⚠️ DISCLAIMER: USE AT YOUR OWN RISK
 This plugin performs potentially destructive actions such as but not limited to overwriting and was created with the assistance of AI. It has been tested and confirmed working in my own environment, but every WordPress setup is different and issues may occur.
 
 Create a full database backup before use and test in a staging environment. I am not liable for any damages, data loss, or site issues resulting from its use.
-
-
-# Etch Transfer
-
-A WordPress plugin for transferring pages, custom post types, templates, patterns, and Etch components between sites — including all Etch classes and styles.
-
-Built for use with [Etch for WordPress](https://etchwp.com/).
 
 ---
 
